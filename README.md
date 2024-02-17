@@ -1,23 +1,27 @@
 # LightTracker Plus
 
-LightTracker Plus is ESP32 based a development board with 1 Watt SX1268 (433MHz) LoRa & GPS module, battery holder and 2 dBi SMA antenna.
+LightTracker Plus is ESP32 based development board with 1 Watt SX1268 (433MHz) LoRa & GPS module, battery holder and 2 dBi SMA antenna.
 
 <img src="images/lightracker_plus_pinout.jpg" width="600">
 
 LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
+
+**Important :** LightTracker Plus 1.0 uses the amateur 70 cm (UHF) radio band and 30 dBm output power which requires an amateur radio license to operate in many countries. So if you are not a HAM operator, please first check local regulations/laws before purchasing the module.
 
 ## Key Benefits
 
 - Low Power Consumption Capability (Deep Sleep)
 - Powerful (1 Watt) LoRa Radio Module
 - Compact GPS Module Integrated with Patch Antenna
-- GPS Balloon mode, for high altitude up to 80km
-- 18650 Battery Holder with charging capability
+- GPS Balloon mode, for high altitude up to 80km (Convenient for HAB tracking)
+- 18650 Battery Holder with charging capability (Battery not included)
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS Tracker & iGate, etc
 - Shipped with preloaded basic LoRa APRS Software(Tracking, iGate or Digipeater)
-- 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (not included)
+- 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
+- 3D Models (stl files) for printing board case 
 
 <img src="images/lighttracker_plus_with_antenna.jpg" width="600">
+<img src="images/lightracker_plus_sma_connector_and_battery_holder.jpg" width="600">
 
 ## Basic Features
 
@@ -48,3 +52,6 @@ LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
 
 If you have any questions or need support, please contact support@lightaprs.com
 
+## Wiki
+
+* **[F.A.Q.](https://github.com/lightaprs/LightTracker-Plus-1.0/wiki/F.A.Q.)**
