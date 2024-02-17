@@ -1,0 +1,21 @@
+name: PlatformIO CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup PlatformIO
+        uses: n-vr/setup-platformio-action@v1
+      - run: ln -s ../examples/basic_example.cpp src/basic_example.cpp
+      - name: run cppcheck
+        run: pio check --fail-on-defect low --fail-on-defect medium --fail-on-defect high --skip-packages -v
+      - name: build PlatformIO project
+        run: pio run
