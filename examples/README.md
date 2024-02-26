@@ -35,7 +35,7 @@ Download and install [Arduino IDE](https://www.arduino.cc/en/Main/Software). If 
 - Flash Size: "8MB (64Mb)"
 - Partition Scheme: "8M with spiffs (3MB APP/1.5MB SPIFFS)"
 
-<img src="images/arduino_board_manager_esp32-s3-settings.png" width="300">
+<img src="../images/arduino_board_manager_esp32-s3-settings.png" width="300">
 
 ### 4.Copy Libraries & Compile Source Code 
 
