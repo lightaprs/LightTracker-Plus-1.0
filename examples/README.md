@@ -54,6 +54,8 @@ You are almost ready to programme LightTracker Plus 1.0 :)
 ### 5.Upload
 
 - First attach an UHF antenna to your module. Radio module may be damaged when not attaching an antenna, since power has nowhere to go. 
-- Connect LightTracker Plus 1.0 to your computer with a Type-C cable. 
+- Connect LightTracker Plus 1.0 to your computer with a Type-C cable.
+- Holding down the **Boot** button than press the **Reset** button (and release both of them) to enable firmware upload mode.
+![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/d54d7b0e-826b-4c55-b98f-0ba9262cf3c8)  
 - You should see a COM port under **Tools->Port** menu item. Select that port. 
 - Click **Upload**
