@@ -35,7 +35,7 @@ LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
 - **Ram** : 512 kB SRAM
 - **Operating Frequency** : 240 Mhz
 - **Operating Voltage** : 3.3 Volt
-- **Input Voltage** : 2.7 (min) - 5.5 (max) Volt via USB Type C 2.0 or Battery Holder
+- **Input Voltage** : 3.3 (min) - 5.5 (max) Volt via USB Type C 2.0 or Battery Holder
 - **Sensor** : SHTC3 (humidity and temperature)
 - **Power Consumption (Deep Sleep)** : ~0.2 mA
 - **Power Consumption (Idle)** : ~65 mA
