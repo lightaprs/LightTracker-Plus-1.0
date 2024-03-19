@@ -16,7 +16,7 @@ LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
 - GPS Balloon mode, for high altitude up to 80km (Convenient for High Altitude Balloon tracking)
 - 18650 Battery Holder with charging capability (Battery not included)
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS Tracker & iGate, etc
-- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracking, iGate or Digipeater)
+- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracker, iGate or Digipeater)
 - 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
 - 3D Models (stl files) for printing board case (Case not included)
 
