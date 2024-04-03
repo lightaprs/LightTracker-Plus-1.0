@@ -17,8 +17,8 @@ LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
 - 18650 Battery Holder with charging capability (Battery not included)
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS Tracker & iGate, etc
 - Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracker, iGate or Digipeater)
-![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/3343ed6a-3889-4749-b46c-92f86f8bfe87)
-![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/f862731d-ec07-49a2-a2a7-005dc43e645d)
+![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/700a36ae-999c-48d5-a819-16fefef5c49e)
+![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/de202284-7e09-43a0-81bc-c08842a1132a)
 - 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
 - 3D Models (stl files) for printing board case (Case not included)
 
