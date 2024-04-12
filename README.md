@@ -19,6 +19,7 @@ LightTracker Plus will be available on https://shop.qrp-labs.com for order soon.
 - Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracker, iGate or Digipeater)
 ![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/700a36ae-999c-48d5-a819-16fefef5c49e)
 ![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/de202284-7e09-43a0-81bc-c08842a1132a)
+- TinyGS compatible (still testing), check out [this page](https://github.com/lightaprs/tinyGS/wiki) for details.
 - 0.96 inch OLED Screen (VCC,GND,SCL,SDA) support (OLED screen not included)
 - 3D Models (stl files) for printing board case (Case not included)
 
