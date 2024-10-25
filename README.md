@@ -16,7 +16,8 @@ LightTracker Plus is available on [https://shop.qrp-labs.com/aprs/lighttrackerpl
 - GPS Balloon mode, for high altitude up to 80km (Convenient for High Altitude Balloon tracking)
 - 18650 Battery Holder with charging capability (Battery not included)
 - Suitable for Open Source HAM Radio ESP32 projects like Meshtastic, TinyGS, LoRa APRS Tracker & iGate, etc
-- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracker, iGate or Digipeater)
+- Shipped with preloaded basic [LoRa APRS Software](https://github.com/lightaprs/LightLoRaAPRS/)(Tracker, iGate or Digipeater) and supported by [Ricardo Guzman's LoRa APRS Tracker Software](https://github.com/richonguzman/LoRa_APRS_Tracker) You can use Web Flasher to install it -> https://richonguzman.github.io/lora-tracker-web-flasher/installer.html
+  
 ![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/700a36ae-999c-48d5-a819-16fefef5c49e)
 ![image](https://github.com/lightaprs/LightTracker-Plus-1.0/assets/48382675/de202284-7e09-43a0-81bc-c08842a1132a)
 - TinyGS compatible (still testing), check out [this page](https://github.com/lightaprs/tinyGS/wiki) for details.
