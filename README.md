@@ -6,6 +6,8 @@ LightTracker Plus is an ESP32-based development board featuring a 1 Watt SX1268 
 
 LightTracker Plus is available on [https://shop.qrp-labs.com/aprs/lighttrackerplus](https://shop.qrp-labs.com/aprs/lighttrackerplus) for order.
 
+If you need a Solar powered module for iGate or Digipeater check out : https://github.com/lightaprs/LightGatewayPlus-1.0
+
 **Important :** LightTracker Plus 1.0 operates on the amateur 70 cm (UHF) radio band with a 30 dBm output power, which typically requires an amateur radio license to operate in many countries. Therefore, if you are not a licensed HAM operator, please ensure to check local regulations and laws before purchasing the module.
 
 ## Key Benefits
